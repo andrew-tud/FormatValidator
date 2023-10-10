@@ -1,0 +1,12 @@
+C:\Users\andre\Desktop\Test\FormatValidator\FormatValidator.String\bin\Debug\net6.0\FormatValidator.String.deps.json
+C:\Users\andre\Desktop\Test\FormatValidator\FormatValidator.String\bin\Debug\net6.0\FormatValidator.String.dll
+C:\Users\andre\Desktop\Test\FormatValidator\FormatValidator.String\bin\Debug\net6.0\FormatValidator.String.pdb
+C:\Users\andre\Desktop\Test\FormatValidator\FormatValidator.String\obj\Debug\net6.0\FormatValidator.String.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Test\FormatValidator\FormatValidator.String\obj\Debug\net6.0\FormatValidator.String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Test\FormatValidator\FormatValidator.String\obj\Debug\net6.0\FormatValidator.String.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Test\FormatValidator\FormatValidator.String\obj\Debug\net6.0\FormatValidator.String.AssemblyInfo.cs
+C:\Users\andre\Desktop\Test\FormatValidator\FormatValidator.String\obj\Debug\net6.0\FormatValidator.String.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Test\FormatValidator\FormatValidator.String\obj\Debug\net6.0\FormatValidator.String.dll
+C:\Users\andre\Desktop\Test\FormatValidator\FormatValidator.String\obj\Debug\net6.0\refint\FormatValidator.String.dll
+C:\Users\andre\Desktop\Test\FormatValidator\FormatValidator.String\obj\Debug\net6.0\FormatValidator.String.pdb
+C:\Users\andre\Desktop\Test\FormatValidator\FormatValidator.String\obj\Debug\net6.0\ref\FormatValidator.String.dll
